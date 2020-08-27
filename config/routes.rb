@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :answers
+  resources :questions
   resources :site_modules
   devise_for :users, controllers: {
     registrations: 'users/registrations',
