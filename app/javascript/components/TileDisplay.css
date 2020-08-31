@@ -1,0 +1,32 @@
+.button1 {
+	position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 198px;
+    top: 329px;
+}
+
+.button2 {
+	position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 401px;
+    top: 329px;
+}
+
+.button3 {
+	position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 604px;
+    top: 329px;
+}
+
+.button4 {
+	position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 807px;
+    top: 329px;
+}
+
