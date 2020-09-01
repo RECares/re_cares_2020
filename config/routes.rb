@@ -2,6 +2,8 @@ Rails.application.routes.draw do
   resources :answers
   resources :questions
   resources :site_modules
+  get 'static_pages/home'
+  get 'static_pages/faq'
   devise_for :users, controllers: {
     registrations: 'users/registrations',
     sessions: 'users/sessions'
