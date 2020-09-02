@@ -14,9 +14,10 @@ render() {
     <>
       <div className="PopUp">
         <div className= "PopUpText">
-         Computer - Is your information stored only on your computer. External Hard Drive - If your information is stored on a USB or external hardrive. Online - If your information is stored online and accessible from different computers. Physical Copies - If your information is accessible with physical copies, ex printed out 
+         {this.props.text}
+        
         </div>
-        </div>
+      </div>
     </>
     );
   }
