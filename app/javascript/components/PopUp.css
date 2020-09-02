@@ -13,3 +13,21 @@ line-height: 16px;
 display: flex;
 align-items: center;
 }
+
+.PopUpText {
+	position: absolute;
+    width: 220px;
+    height: 176px;
+    left: 889px;
+    top: 122px;
+
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
