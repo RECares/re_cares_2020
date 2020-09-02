@@ -1,9 +1,6 @@
 .PopUp {  
-    .position: absolute;
     width: 220px;
     height: 176px;
-    left: 889px;
-    top: 122px;
 
     font-family: Arial;
     font-style: normal;
@@ -15,11 +12,8 @@
 }
 
 .PopUpText {
-	position: absolute;
     width: 220px;
     height: 176px;
-    left: 889px;
-    top: 122px;
 
     font-family: Arial;
     font-style: normal;
