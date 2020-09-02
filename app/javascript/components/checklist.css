@@ -1,0 +1,46 @@
+.checklist {
+	position: absolute;
+    width: 823px;
+    height: 315px;
+    left: 185px;
+    top: 533px;
+
+    filter: drop-shadow(0px 0px 15px rgba(0, 0, 0, 0.12));
+}
+
+.task {
+	position: absolute;
+    width: 323px;
+    height: 26px;
+    left: 259px;
+    top: 632px;
+}
+
+.tasktext {
+	position: absolute;
+    width: 287px;
+    height: 26px;
+    left: 295px;
+    top: 632px;
+
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+
+.taskCheckBox {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 259px;
+    top: 635px;
+}
+
+
+
