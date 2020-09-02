@@ -1,5 +1,5 @@
 import React from 'react';
-import '../../assets/LoginPopup.css';
+import '../../assets/stylesheets/LoginPopup.css';
 
 // TODO: add api functions to take in input and send to backend
 
