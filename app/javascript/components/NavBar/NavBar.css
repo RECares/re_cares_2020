@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Helvetica');
+
+.nav-bar {
+   padding-right: 20px;
+   height: 54px;
+   width: 100%;
+    background-color: #000000;
+}
+
+.nav-logo {
+   float: left;
+
+   width: 112px;
+   height: 44px;
+
+   font-family: Arial;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 18px;
+   line-height: 21px;
+}
+
+.nav-logo1 {
+   padding-top: 5px;
+   padding-left: 13px;
+   color: #A0D2FF;
+}
+
+.nav-logo2 {
+   padding-left: 13px;
+   color: #FFFFFF;
+}
+
+
+.routingButton {
+   float: right;
+   margin-top: 13px;
+   padding-left: 5px;
+   padding-right: 5px;
+
+   font-style: normal;
+   font-weight: normal;
+   font-size: 15px;
+   color: #FFFFFF;
+}
+
+a:hover {
+    text-decoration: underline;
+}
