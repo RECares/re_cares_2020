@@ -1,0 +1,25 @@
+.PopUp {  
+    width: 220px;
+    height: 176px;
+
+    font-family: Arial;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+}
+
+.PopUpText {
+    width: 220px;
+    height: 176px;
+
+    font-family: Arial;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
